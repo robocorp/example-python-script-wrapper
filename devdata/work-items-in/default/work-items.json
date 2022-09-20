@@ -1,0 +1,26 @@
+[
+  {
+    "payload": {
+      "email": {
+        "from": {
+          "name": "Blake Waud",
+          "address": "blake@waud.org"
+        },
+        "to": [
+          {
+            "name": "",
+            "address": "process.blakesbots.aligntechsqa.t8ui8jj3t3@mail.eu1.robocloud.eu"
+          }
+        ],
+        "cc": [],
+        "bcc": [],
+        "subject": "RUN THE BOT",
+        "date": "2022-09-19T20:05:21.000Z",
+        "text": ""
+      }
+    },
+    "files": {
+      "input.xlsx": "input.xlsx"
+    }
+  }
+]
